@@ -1,0 +1,12 @@
+2023-09-10 21:44:01,095 INFO Main: The beginning of the rice. Number of participants: 7
+2023-09-10 21:44:21,444 INFO Main: The end of the race. Winner: Cherry
+2023-09-10 22:31:01,322 DEBUG Hippodrome: Create a Hippodrome, horses 7
+2023-09-10 22:31:01,324 INFO Main: The beginning of the rice. Number of participants: 7
+2023-09-10 22:31:21,599 INFO Main: The end of the race. Winner: Cherry
+2023-09-10 22:32:29,000 DEBUG Hippodrome: Create a Hippodrome, horses 7
+2023-09-10 22:32:29,003 INFO Main: The beginning of the rice. Number of participants: 7
+2023-09-10 22:32:49,287 INFO Main: The end of the race. Winner: Pegasus
+2023-09-10 22:34:46,050 ERROR Horse: Speed is negative
+2023-09-10 22:36:14,051 DEBUG Hippodrome: Create a Hippodrome, horses 7
+2023-09-10 22:36:14,053 INFO Main: The beginning of the rice. Number of participants: 7
+2023-09-10 22:36:34,347 INFO Main: The end of the race. Winner: Cherry
